@@ -2,9 +2,7 @@
 
 ## About Me
 <div align="center">
-  <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
-  <img src="![image](https://github.com/ImAltay/ImAltay/assets/59362374/252a85f1-400f-435a-a05d-21db2b779612)
-" align="center" width="200" height="200" /></div>  
+    <img src="https://giphy.com/gifs/13HgwGsXF0aiGY" align="center" width="200" height="200" /></div>  
 
 <br/>  
 
