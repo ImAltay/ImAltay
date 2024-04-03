@@ -2,7 +2,7 @@
 
 ## About Me
 <div align="center">
-    <img src="https://giphy.com/gifs/13HgwGsXF0aiGY" align="center" width="200" height="200" /></div>  
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IyNjA1cGMzOHl1YzF0NzIyZ21wZjduMnR0Mm5jNzYxZDNqZ2RlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="center" width="200" height="200" /></div>  
 
 <br/>  
 
@@ -25,7 +25,7 @@
 <a href="https://github.com/ImAltay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
-<a href="https://codepen.io/etliekmek-the-sans" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
