@@ -9,6 +9,7 @@
 
   <br/>  
 I code and do other nerd stuff
+  <br/>  
 I like Video Games, Anime, Pandas and Rum.
 
 <br/>  
