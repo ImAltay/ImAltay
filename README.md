@@ -8,7 +8,8 @@
 
 
   <br/>  
-- I code and do other nerd stuff
+I code and do other nerd stuff
+I like Video Games, Anime, Pandas and Rum.
 
 <br/>  
 
