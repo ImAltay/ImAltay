@@ -6,15 +6,10 @@
 
 ### <div align="center"> Trainee of HYF Cohort 47 🧑🏻‍💻</div>  
 
-
   <br/>  
 I code and do other nerd stuff
   <br/>  
-I like Video Games, Anime, Pandas and Rum.
-
 <br/>  
-
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ImAltay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
