@@ -42,10 +42,10 @@ I recently finished a 7 month intensive training at <a href="https://www.hackyou
 
 ## 💼 Projects
 
-| # | Github Repo | Thumbnail | Live demo | Description |
-|---|-------------|-----------|-----------|--------------|
-| 1 | [Book Recs]() | image | <a href="https://c47-group-a.hackyourfuture.tech/"> Live Demo </a> | Final Project of HYF. Worked as a team of 5 trainees. Used MERN stack and additional libraries. worked as a team following SCRUM |
-| 2 | [Anime db](https://github.com/ImAltay/HYF-React-Project) | image | <a href="https://66832243a39c308a1f499224--poetic-bienenstitch-960054.netlify.app/"> Live Demo </a> | A react app where you can search and favorite anime. Build per HYF requirements to demonstrate my skill in React |
-| 3 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | An app for cocktail searching. Build per HYF requirements to demonstrate my skill in using APIs |
-| 4 | [Quiz App](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/group-quiz-app-project/"> Live Demo </a> | A quiz app, a group project build per HYF requirements to demonstrate my skill in JS, browsers and team work |
-| 5 | [Giant Panda](https://github.com/ImAltay/HYFApplicationProject) | image | <a href="https://codepen.io/etliekmek-the-sans/pen/abXeZgE"> Live Demo </a> | Single page app dedicated to giant pandas. Build as an application project for HYF to demonstrate my html-css-js skills |
+| # | Source Code | Live Demo | Description |
+|---|-------------|-----------|-------------|
+| 1 | [Book Recs]() | [Live Demo](https://c47-group-a.hackyourfuture.tech/)| Final Project of HYF. Worked as a team of 5 trainees. Used MERN stack and additional libraries. worked as a team following SCRUM |
+| 2 | [Source Code](https://github.com/ImAltay/HYF-React-Project) | [Live Demo](https://66832243a39c308a1f499224--poetic-bienenstitch-960054.netlify.app/)  |  A react app where you can search and favorite anime. Build per HYF requirements to demonstrate my skill in React |
+| 3 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | [Live Demo](https://imaltay.github.io/HYF-usingAPIs-Project/) | An app for cocktail searching. Build per HYF requirements to demonstrate my skill in using APIs |
+| 4 | [Quiz App](https://github.com/ImAltay/HYF-usingAPIs-Project) |  [Live Demo](https://imaltay.github.io/group-quiz-app-project/)  | A quiz app, a group project build per HYF requirements to demonstrate my skill in JS, browsers and team work |
+| 5 | [Giant Panda](https://github.com/ImAltay/HYFApplicationProject) | [Live Demo](https://codepen.io/etliekmek-the-sans/pen/abXeZgE) | Single page app dedicated to giant pandas. Build as an application project for HYF to demonstrate my html-css-js skills |
