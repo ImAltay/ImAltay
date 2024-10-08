@@ -8,9 +8,12 @@
 
   <br/>  
 Hi, I am ibrahim and I am an aspiring full stack developer.  <br/>
-I like video games, anime, pandas and rum. <br/>
+I currently finished a 7 month intensive training at [HYF](https://www.hackyourfuture.net/) and I am looking for a job / internship
 
-#### Сore skills:
+I love video games, anime, pandas and rum. <br/>
+
+
+#### main skills:
 [HTML](https://www.w3schools.com/html/) |
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/) |
 [JavaScript](https://www.w3schools.com/js/) |
@@ -22,7 +25,7 @@ I like video games, anime, pandas and rum. <br/>
 [Express JS](https://expressjs.com/) |
 [MongoDB](https://www.mongodb.com/) |
 
-#### Familiar with:
+#### Skills I am Familiar with:
 [Java](https://www.oracle.com/java/) |
 [Unity](https://unity.com/)|
 [C#](https://www.w3schools.com/cs/index.php)|
@@ -39,14 +42,11 @@ I like video games, anime, pandas and rum. <br/>
 [Spring](https://spring.io/) |
 [TypeScript](https://www.typescriptlang.org/) |
 
-
-  
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ImAltay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+#### Planning to learn:
+MORE!
 
 <br/>  
+
 
 
 ## Connect with me  
@@ -62,13 +62,7 @@ I like video games, anime, pandas and rum. <br/>
 </div>  
   
 
-<br/>  
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ImAltay-a&&style=flat-square" align="center" />
-</div>  
-  
 
 
 <!--
@@ -85,3 +79,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--  this kinda ugly idk. 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ImAltay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+-->
+
+
+<!-- profile visits but its not unique visits lol. kinda useless.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ImAltay-a&&style=flat-square" align="center" />
+</div>  
+  
+
+
+
+-->
+
