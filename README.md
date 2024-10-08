@@ -1,15 +1,11 @@
-### Welcome
 
-## About Me
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IyNjA1cGMzOHl1YzF0NzIyZ21wZjduMnR0Mm5jNzYxZDNqZ2RlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="center" width="150" height="150" /></div>  
 
-### <div align="center"> Trainee of HYF Cohort 47 🧑🏻‍💻</div>  
-
-  <br/>  
-Hi, I am ibrahim and I'm a Junior Full-Stack Developer <br/>
-
-I currently finished a 7 month intensive training at <a href="https://www.hackyourfuture.net/">HYF</a> and I am looking for a job / internship
+### <div align="center"> Welcome to my Github 🧑🏻‍💻</div>  
+  
+I am ibrahim and I'm a Junior Full-Stack Developer <br/>
+I recently finished a 7 month intensive training at <a href="https://www.hackyourfuture.net/">HYF</a> and I am looking for a job / internship
 
 #### Core skills:
 [HTML](https://www.w3schools.com/html/) |
