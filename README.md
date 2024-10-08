@@ -36,7 +36,7 @@ I recently finished a 7 month intensive training at <a href="https://www.hackyou
 
 <strong> Planning to learn: </strong> more!
 
-<a href="https://www.linkedin.com/in/ibrahim-%C5%9F-7781ba305/" target="_blank">
+<a href="https://www.linkedin.com/in/ibrahim-s-7781ba305/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
