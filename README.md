@@ -7,23 +7,21 @@
 ### <div align="center"> Trainee of HYF Cohort 47 🧑🏻‍💻</div>  
 
   <br/>  
-Hi, I am ibrahim and I am an aspiring full stack developer.  <br/>
-I currently finished a 7 month intensive training at [HYF](https://www.hackyourfuture.net/) and I am looking for a job / internship
+Hi, I am ibrahim and I'm a Junior Full-Stack Developer <br/>
 
-I love video games, anime, pandas and rum. <br/>
+I currently finished a 7 month intensive training at <a href="https://www.hackyourfuture.net/">HYF</a> and I am looking for a job / internship
 
-
-#### main skills:
+#### Core skills:
 [HTML](https://www.w3schools.com/html/) |
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/) |
 [JavaScript](https://www.w3schools.com/js/) |
+[Node JS](https://nodejs.org/) |
+[Express JS](https://expressjs.com/) |
+[MongoDB](https://www.mongodb.com/) |
 [React](https://react.dev/) |
 [MySQL](https://www.mysql.com/) |
 [Git](https://git-scm.com/) |
 [Github](https://github.com/) |
-[Node JS](https://nodejs.org/) |
-[Express JS](https://expressjs.com/) |
-[MongoDB](https://www.mongodb.com/) |
 
 #### Skills I am Familiar with:
 [Java](https://www.oracle.com/java/) |
@@ -44,8 +42,17 @@ I love video games, anime, pandas and rum. <br/>
 
 #### Planning to learn:
 MORE!
-
 <br/>  
+
+## 💼 Projects
+
+| # | Github Repo | Thumbnail | Live demo | Decscription |
+|---|-------------|-----------|-----------|--------------|
+| 1 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | Final Project of HYF. Worked as a team of 5 trainees. Used MERN stack and additinonal libraries. workes as a team following SCRUM |
+| 2 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | A react app where you can search and favorite animes. Build per HYF requirements to demonstrate my skill in React |
+| 3 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | An app for coctail searching. Build per HYF requirements to demonstrate my skill in using APIs |
+| 4 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | A quiz app, a group project build per HYF requirements to demonstrate my skill in JS, browsers and team work |
+| 5 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | Single page app dedicated to giant pandas. Build as an applicaiton project for HYF to demonstrate my html-css-js skills |
 
 
 
@@ -61,9 +68,6 @@ MORE!
 </a>  
 </div>  
   
-
-
-
 
 <!--
 **ImAltay/ImAltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
