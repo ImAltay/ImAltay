@@ -7,8 +7,40 @@
 ### <div align="center"> Trainee of HYF Cohort 47 🧑🏻‍💻</div>  
 
   <br/>  
-I code and do other nerd stuff
-  <br/>  
+Hi, I am ibrahim and I am an aspiring full stack developer.  <br/>
+I like video games, anime, pandas and rum. <br/>
+
+#### Сore skills:
+[HTML](https://www.w3schools.com/html/) |
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/) |
+[JavaScript](https://www.w3schools.com/js/) |
+[React](https://react.dev/) |
+[MySQL](https://www.mysql.com/) |
+[Git](https://git-scm.com/) |
+[Github](https://github.com/) |
+[Node JS](https://nodejs.org/) |
+[Express JS](https://expressjs.com/) |
+[MongoDB](https://www.mongodb.com/) |
+
+#### Familiar with:
+[Java](https://www.oracle.com/java/) |
+[Unity](https://unity.com/)|
+[C#](https://www.w3schools.com/cs/index.php)|
+[Discord](https://discord.com/developers/docs/intro)|
+[Bootstrap](https://getbootstrap.com/) |
+[React Bootstrap](https://react-bootstrap.github.io/) |
+[Netlify](https://www.netlify.com/) |
+[Heroku](https://www.heroku.com/) |
+[Vite](https://vitejs.dev/) |
+
+
+#### Currently Studying: 
+[Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)|
+[Spring](https://spring.io/) |
+[TypeScript](https://www.typescriptlang.org/) |
+
+
+  
 <br/>  
 
 ## Github Stats  
