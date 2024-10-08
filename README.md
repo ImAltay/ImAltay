@@ -34,63 +34,18 @@ I recently finished a 7 month intensive training at <a href="https://www.hackyou
 [Spring](https://spring.io/) ,
 [TypeScript](https://www.typescriptlang.org/) 
 
-<strong> Planning to learn: </strong>
+<strong> Planning to learn: </strong> more!
 
-## 💼 Projects
-
-| # | Github Repo | Thumbnail | Live demo | Decscription |
-|---|-------------|-----------|-----------|--------------|
-| 1 | [Book Recs]() | image | <a href="https://c47-group-a.hackyourfuture.tech/"> Live Demo </a> | Final Project of HYF. Worked as a team of 5 trainees. Used MERN stack and additinonal libraries. workes as a team following SCRUM |
-| 2 | [Anime db](https://github.com/ImAltay/HYF-React-Project) | image | <a href="https://66832243a39c308a1f499224--poetic-bienenstitch-960054.netlify.app/"> Live Demo </a> | A react app where you can search and favorite animes. Build per HYF requirements to demonstrate my skill in React |
-| 3 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | An app for coctail searching. Build per HYF requirements to demonstrate my skill in using APIs |
-| 4 | [Quiz App](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/group-quiz-app-project/"> Live Demo </a> | A quiz app, a group project build per HYF requirements to demonstrate my skill in JS, browsers and team work |
-| 5 | [Giant Panda](https://github.com/ImAltay/HYFApplicationProject) | image | <a href="https://codepen.io/etliekmek-the-sans/pen/abXeZgE"> Live Demo </a> | Single page app dedicated to giant pandas. Build as an applicaiton project for HYF to demonstrate my html-css-js skills |
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ImAltay" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="https://www.linkedin.com/in/ibrahim-%C5%9F-7781ba305/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.io/etliekmek-the-sans/pen/abXeZgE" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<!--
-**ImAltay/ImAltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--  this kinda ugly idk. 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ImAltay&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
--->
-
-
-<!-- profile visits but its not unique visits lol. kinda useless.
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ImAltay-a&&style=flat-square" align="center" />
-</div>  
-  
-
-
-
--->
-
+| # | Github Repo | Thumbnail | Live demo | Description |
+|---|-------------|-----------|-----------|--------------|
+| 1 | [Book Recs]() | image | <a href="https://c47-group-a.hackyourfuture.tech/"> Live Demo </a> | Final Project of HYF. Worked as a team of 5 trainees. Used MERN stack and additional libraries. worked as a team following SCRUM |
+| 2 | [Anime db](https://github.com/ImAltay/HYF-React-Project) | image | <a href="https://66832243a39c308a1f499224--poetic-bienenstitch-960054.netlify.app/"> Live Demo </a> | A react app where you can search and favorite anime. Build per HYF requirements to demonstrate my skill in React |
+| 3 | [Cocktail Finder](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/HYF-usingAPIs-Project/"> Live Demo </a> | An app for cocktail searching. Build per HYF requirements to demonstrate my skill in using APIs |
+| 4 | [Quiz App](https://github.com/ImAltay/HYF-usingAPIs-Project) | image | <a href="https://imaltay.github.io/group-quiz-app-project/"> Live Demo </a> | A quiz app, a group project build per HYF requirements to demonstrate my skill in JS, browsers and team work |
+| 5 | [Giant Panda](https://github.com/ImAltay/HYFApplicationProject) | image | <a href="https://codepen.io/etliekmek-the-sans/pen/abXeZgE"> Live Demo </a> | Single page app dedicated to giant pandas. Build as an application project for HYF to demonstrate my html-css-js skills |
