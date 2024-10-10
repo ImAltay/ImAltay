@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IyNjA1cGMzOHl1YzF0NzIyZ21wZjduMnR0Mm5jNzYxZDNqZ2RlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="center" width="150" height="150" /></div>  
+<!--     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IyNjA1cGMzOHl1YzF0NzIyZ21wZjduMnR0Mm5jNzYxZDNqZ2RlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="center" width="150" height="150" /></div>   -->
 
 ### <div align="center"> Welcome to my Github 🧑🏻‍💻</div>  
   
